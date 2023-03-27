@@ -2,6 +2,8 @@
 
 # Test
 
+# Skip CI test
+
 Repo for the `GitHub Actions Fundamentals` training.
 
 ## 👉 Objectives
